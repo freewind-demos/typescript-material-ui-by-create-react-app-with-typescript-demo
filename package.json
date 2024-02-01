@@ -14,7 +14,7 @@
   "devDependencies": {
     "@types/jest": "*",
     "@types/node": "*",
-    "typescript": "latest"
+    "typescript": "5.3.3"
   },
   "scripts": {
     "start": "react-scripts-ts start",
